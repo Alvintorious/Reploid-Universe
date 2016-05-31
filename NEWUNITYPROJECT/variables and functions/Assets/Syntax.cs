@@ -4,22 +4,24 @@ using System.Collections;
 public class Syntax : MonoBehaviour 
 {
 
-	int doBeDo = 45;
+	int power = 8;
 
-	int DoBeDo (int _d, int _p) {
-		return _d + _p;
+	int stand (int_l, int_r){
+		return _l + _r;
 	}
 
-	int Blablaby2(int _d, int _p) {
-		int _g = (_d + 10) * 2;
-		return _g;
+	int walk (int_l, int_r){
+		int _w = (int_l, int_r + 1);
+		return _w;
 	}
-	void Start () {
-		print (doBeDo);
-		doBeDo = DoBeDo (45, 27);
-		print (doBeDo);
-		doBeDo = 12;
-		print (doBeDo);
+
+	int run (int_l, int_r){
+		int _R = (int_l, int_r + 1)
+			return _R;
+	}
+
+	void Start()
+		
 
 
 
