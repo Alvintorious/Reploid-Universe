@@ -3,8 +3,7 @@ using System.Collections;
 
 public class vars : MonoBehaviour {
 
-    int git = 45
-		;
+    int git = 45;
 
     void Start()
     {
