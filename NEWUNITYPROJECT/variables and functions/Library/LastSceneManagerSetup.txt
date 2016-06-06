@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Syntax.unity
+- path: Assets/If Statments.unity
   isLoaded: 1
   isActive: 1
