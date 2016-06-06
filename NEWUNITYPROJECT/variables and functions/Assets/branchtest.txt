@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+this is the test for a branch in git kraken
+=======
+this is what you need to do do merge the branches. you need to make changes to the branch and if the files are different
+you can call the older file back if you loose something that was change that should not have been or didn't need the change to it
+>>>>>>> master
