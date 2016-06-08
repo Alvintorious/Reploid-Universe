@@ -9,7 +9,7 @@ public class IfStatments : MonoBehaviour {
 	const string myconst = "OU812";
 	// Update is called once per frame
 	void Update () {
-		if (mystring == myconst)
+		if (myint >= 1)
 			print ("That's correct, you have unlocked health powerUps");
 		else
 			print (false);
