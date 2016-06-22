@@ -4,10 +4,10 @@ using System.Collections;
 public class scope2 : MonoBehaviour {
 
 
-	private scope2  MyFruit;
+	private Scope  MyFruit;
 
 	void Start () {
-		MyFruit = new scope2 ();
+		MyFruit = new Scope ();
 		MyFruit.AddApples (10);
 		MyFruit.AddApples (10);
 
