@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class vars : MonoBehaviour {
+public class Vars : MonoBehaviour 
+{
 
     int git = 45;
 
